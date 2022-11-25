@@ -10,3 +10,8 @@ The goal is:
 3, Have the choise between the TUI, CLI and a nice GUI
 
 
+##############################
+First step,
+  add an task to an map
+Second step,  
+  write actually something to a file (src:https://golangbot.com/write-files/)
